@@ -1,4 +1,4 @@
-<h2 align="center">Analista de Sistemas na @Yellow Kite | Foco em Engenharia de Software e DevOps</h2>
+<h2 align="center">Engenheiro de Software | Python | Java | Cloud | DevOps</h2>
 
 ###
 
