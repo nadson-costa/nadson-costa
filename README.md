@@ -1,4 +1,4 @@
-<h2 align="center">Engenheiro de Software | Python | Java | Cloud | DevOps</h2>
+<h2 align="center">Engenheiro de Software Back-End | Python | Java | Cloud | DevOps</h2>
 
 ###
 
