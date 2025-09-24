@@ -1,4 +1,4 @@
-<h2 align="center">Engenheiro de Software Back-End | Python | Java | Cloud | DevOps</h2>
+<h2 align="center">Desenvolvedor Back-End | Python | Java | IA | Cloud | DevOps</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou um profissional apaixonado por transformar desafios em soluções tecnológicas robustas e escaláveis, com foco em Engenharia de Software, DevOps e Cloud.<br><br>Atuo no ciclo completo de desenvolvimento, desde a arquitetura até o deploy, com foco em criar APIs e automações que resolvem problemas reais de negócio. Minhas áreas de interesse incluem a aplicação de IA (LLMs) em soluções práticas e a otimização de processos com práticas DevOps.</p>
+<p align="left">Desenvolvedor focado em construir e escalar soluções tecnológicas de alto impacto. Minha experiência abrange o ciclo de vida completo do desenvolvimento, desde a arquitetura da solução e modelagem de dados até a implementação do back-end, containerização com Docker e automação de deploy (CI/CD) em ambientes de nuvem.</p>
 
 ###
 
