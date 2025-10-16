@@ -1,4 +1,4 @@
-<h2 align="center">Desenvolvedor Back-End | Python | Java | IA | Cloud | DevOps</h2>
+<h2 align="center">Tech Lead | Dev Back-end | Python | Java | IA | Cloud | DevOps</h2>
 
 ###
 
@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">Desenvolvedor focado em construir e escalar soluções tecnológicas de alto impacto. Minha experiência abrange o ciclo de vida completo do desenvolvimento, desde a arquitetura da solução e modelagem de dados até a implementação do back-end, containerização com Docker e automação de deploy (CI/CD) em ambientes de nuvem.</p>
+<p align="left">Líder técnico do squad de engenharia de soluções, conectando arquitetura de soluções com estratégias de negócio.
+
+Minha trajetória inclui o desenvolvimento técnico, implementação de sistemas, processos comerciais e gerenciais, me permitindo entender de forma profunda como tecnologia e negócio se integram e desenhar soluções que são tecnicamente robustas e estrategicamente alinhadas</p>
 
 ###
 
