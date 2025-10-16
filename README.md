@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Líder técnico do squad de engenharia de soluções, conectando arquitetura de soluções com estratégias de negócio.
+<p align="center">Líder técnico do squad de engenharia de soluções, conectando arquitetura de soluções com estratégias de negócio.
 
 Minha trajetória inclui o desenvolvimento técnico, implementação de sistemas, processos comerciais e gerenciais, me permitindo entender de forma profunda como tecnologia e negócio se integram e desenhar soluções que são tecnicamente robustas e estrategicamente alinhadas</p>
 
